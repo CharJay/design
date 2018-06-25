@@ -10,5 +10,6 @@ target
 .project
 .settings
 .idea
+bin
 classes
 libs-bak
