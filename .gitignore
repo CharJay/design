@@ -1,0 +1,14 @@
+*.zip
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+target
+.DS_Store
+.classpath
+.project
+.settings
+.idea
+classes
+libs-bak
