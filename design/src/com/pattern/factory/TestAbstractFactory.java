@@ -2,7 +2,7 @@ package com.pattern.factory;
 
 import com.pattern.factory.abstr.DefaultFactory;
 
-public class AbstractFactoryTest {
+public class TestAbstractFactory {
 
 	public static void main(String[] args) {
 		//抽象工厂:解决了方法工厂的问题（把工厂抽象）

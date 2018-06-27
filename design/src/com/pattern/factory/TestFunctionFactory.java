@@ -4,7 +4,7 @@ import com.pattern.factory.func.AudiFactory;
 import com.pattern.factory.func.BmwFactory;
 import com.pattern.factory.func.Factory;
 
-public class FunctionFactoryTest {
+public class TestFunctionFactory {
 
 	
 	
