@@ -4,3 +4,4 @@
 ### com.pattern.delegate	委派模式
 ### com.pattern.strategy	策略模式
 ### com.pattern.prototype	原型模式
+### com.pattern.template	模板模式
